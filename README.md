@@ -1,4 +1,4 @@
- This repo contains code to solve **maximum flow problem** in a bidirectional Manhattan street mesh topology for different combinations of 
+ This repo contains code to solve **maximum flow problem** with Dijkstra's algorithm (for finding the shortest paths between nodes in a weighted graph) in a bidirectional Manhattan street mesh topology for different combinations of 
  - number of nodes (N) and
  - number of transmitters/receivers per node (Δ)
  
